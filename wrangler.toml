@@ -1,0 +1,8 @@
+name = "bbenterpriseserver"
+compatibility_date = "2023-01-01"
+
+[vars]
+REALM_APPID = "application-0-nutma"
+REALM_API_KEY= "uzINxMlwtmQYUAJncKPThR87fKThEetyoVH3f15H4jVwK7lBxbBB60IJg4HESxxF"
+REALM_API_KEY_Shawon_bhai= "uzINxMlwtmQYUAJncKPThR87fKThEetyoVH3f15H4jVwK7lBxbBB60IJg4HESxxF"
+REALM_API_KEY_ridoy= "22ijxTYOjozgyx6am4MKjk1hAt0pebsxo1WOLdiFxRzoqnpSKPBMDl7b1h7V6M5T"

@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "wrangler dev src/index.ts",
+    "deploy": "wrangler publish src/index.ts"
+  },
+  "dependencies": {
+    "@cfworker/uuid": "^1.12.4",
+    "@tsndr/cloudflare-worker-jwt": "^2.2.1",
+    "bcryptjs": "^2.4.3",
+    "hono": "^3.0.2",
+    "realm-web": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20221111.1",
+    "@types/bcryptjs": "^2.4.2",
+    "wrangler": "^2.7.1"
+  }
+}
